@@ -31,6 +31,8 @@ TODO: explicit steps for DWave setup
 *(here: the 'Urban Planning' intro picture)*
 ### Urban Planning
 
+> “The problem with urban environments that are auto oriented,” he said, as we wound our way toward the Bay Bridge, “is that if there’s no choice, if the only way to get around is in a car, lo and behold, people are going to use cars too much. Too much for the climate, too much for people’s pocketbooks, too much for the community in terms of congestion, too much for people’s time. I mean, every way you measure it, it has a negative—no walking is a prescription for obesity. Air quality feeds into respiratory illnesses.” (c) Peter Calthorpe for the National Geographic [[1]][1]
+
 *(here: the 'Common problems' picture)*
 
 *(here: the 'Main Figures' picture - market size, population growth)*
@@ -70,6 +72,8 @@ TODO: explicit steps for DWave setup
 
 ### The Pitch
 *(insert the link to the presentation)*
+
+[1]: https://www.nationalgeographic.com/magazine/article/to-build-cities-of-the-future-stop-driving-cars "To build the cities of the future, we must get out of our cars"
 
 ## Contributors
 
