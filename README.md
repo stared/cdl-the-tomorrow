@@ -36,7 +36,7 @@ Example: From command line: Use python solvers/script.py -h
 
 
 
-**The Pitch**
+> The Pitch
 <insert the link>
 
 ## Contributors
