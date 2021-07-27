@@ -29,8 +29,15 @@ Example: From command line: Use python solvers/script.py -h
 
 ## Market oppotunity
 
-- Business applications
-- Link to Presentation
+  ## Urban Planning
+
+  ## Other business applications
+
+
+
+
+# The Pitch
+<insert the link>
 
 ## Contributors
 
