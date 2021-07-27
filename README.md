@@ -1,5 +1,3 @@
-Fill in this README.md. Example Structure:
-
 ## Project Description
 (3-4 lines about what it is and how you did it)
 
@@ -24,9 +22,13 @@ Example: From command line: Use python solvers/script.py -h
 - Link to Presentation
 
 ## Contributors
-Piotr Migdał, Quantum Flytrap 
+Piotr Migdał, Quantum Flytrap
+
 Klem Jankiewicz, Quantum Flytrap 
+
 Ravindra Babu Mutyamsetty 
+
 Victor Onofre 
+
 Ekaterina Sokolovskaya
 
