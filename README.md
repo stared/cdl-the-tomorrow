@@ -27,7 +27,7 @@ TODO: explicit steps for DWave setup
 - Further walkthrough of what you did
 - Links to any Jupyter notebooks/scripts
 
-## Market oppotunity
+## Market opportunity
 *(here: the 'Urban Planning' intro picture)*
 ### Urban Planning
 
