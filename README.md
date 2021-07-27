@@ -29,14 +29,14 @@ Example: From command line: Use python solvers/script.py -h
 
 ## Market oppotunity
 
-  # Urban Planning
+**Urban Planning**
 
-  # Other business applications
-
-
+**Other business applications**
 
 
-# The Pitch
+
+
+**The Pitch**
 <insert the link>
 
 ## Contributors
