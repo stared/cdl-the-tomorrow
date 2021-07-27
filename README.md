@@ -33,7 +33,11 @@ TODO: explicit steps for DWave setup
 
 ### Other business applications
 
-
+- SAAS for interior and indoor designs, master plans creation
+- Product design
+- Engineering: circuit design optimization
+- 3D computer graphics (e.g. game design)
+- Fiber links, metros and power grid optimization (as a part of the urban design solutions)
 
 
 ### The Pitch
