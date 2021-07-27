@@ -18,6 +18,9 @@ jobs:
         run: |
           conda info
           conda list
+      - name: Install pytest # as the one from conda env is not visible
+        shell: bash -l {0}
+        run: pip install pytest
       - name: Test with pytest
         shell: bash -l {0}
         run: |
