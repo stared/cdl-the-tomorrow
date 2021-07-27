@@ -12,6 +12,8 @@ The project is managed by [conda](https://conda.io/projects/conda/en/latest/user
 conda env create -f environment.yml
 ```
 
+If you want to run in in Jupyter Notebook, see [How to set up Anaconda and Jupyter Notebook the right way](https://towardsdatascience.com/how-to-set-up-anaconda-and-jupyter-notebook-the-right-way-de3b7623ea4a).
+
 TODO: explicit steps for DWave setup
 
 ## How to Use
