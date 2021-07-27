@@ -2,7 +2,7 @@
 
 ## Project Description
 
-(3-4 lines about what it is and how you did it)
+*(3-4 lines about what it is and how you did it)*
 
 ## Setup
 
@@ -18,7 +18,7 @@ TODO: explicit steps for DWave setup
 
 ## How to Use
 
-Example: From command line: Use python solvers/script.py -h
+*Example: From command line: Use python solvers/script.py -h*
 
 ## Challenge(s) You Solved
 
@@ -26,8 +26,53 @@ Example: From command line: Use python solvers/script.py -h
 
 - Further walkthrough of what you did
 - Links to any Jupyter notebooks/scripts
-- Business applications
-- Link to Presentation
+
+## Market opportunity
+*(here: the 'Urban Planning' intro picture)*
+### Urban Planning
+
+*(here: the 'Common problems' picture)*
+
+*(here: the 'Historical background' picture)*
+
+*(here: the 'Main Figures' picture - market size, population growth)*
+
+### Potential customers 
+
+**Architectural software solutions**
+
+- AutoDesk
+- Rhino (especially, their Grasshopper 3D solution)
+- CATIA 
+- SketchUp 
+- Revit
+
+**Urban planning companies**
+
+- Public sector
+- Real Estate & Infra Companies
+  * HDR (especially, their UrbanFootprint software)
+  * Zaha Hadid Architects
+  * SOM
+  * WSP
+  * ARUP
+  * Populous
+
+
+
+### Other business applications
+*(here (maybe?): a collage of the applications below)*
+- SAAS for interior and indoor designs, master plans creation
+- Product design
+- Engineering: circuit design optimization
+- 3D computer graphics (e.g. game design)
+- Board games design
+- Fiber links, metros and power grid optimization (e.g. as a part of the urban design solutions)
+
+
+### The Pitch
+*(insert the link to the presentation)*
+
 
 ## Contributors
 
