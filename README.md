@@ -35,7 +35,7 @@ TODO: explicit steps for DWave setup
 
 *(here: the 'Main Figures' picture - market size, population growth)*
 
-#### Potential customers ####
+### Potential customers 
 
 **Architectural software solutions**
 
