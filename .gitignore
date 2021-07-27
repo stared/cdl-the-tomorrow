@@ -1,0 +1,6 @@
+# Python temp files
+.ipynb_checkpoints/
+*.pyc
+
+# System files
+.DS_Store
