@@ -2,7 +2,7 @@
 
 ## Project Description
 
-(3-4 lines about what it is and how you did it)
+*(3-4 lines about what it is and how you did it)*
 
 ## Setup
 
@@ -18,7 +18,7 @@ TODO: explicit steps for DWave setup
 
 ## How to Use
 
-Example: From command line: Use python solvers/script.py -h
+*Example: From command line: Use python solvers/script.py -h*
 
 ## Challenge(s) You Solved
 
@@ -28,7 +28,7 @@ Example: From command line: Use python solvers/script.py -h
 - Links to any Jupyter notebooks/scripts
 
 ## Market oppotunity
-(here: the 'Urban Planning' intro picture)
+*(here: the 'Urban Planning' intro picture)*
 ### Urban Planning
 
 ### Other business applications
@@ -37,7 +37,7 @@ Example: From command line: Use python solvers/script.py -h
 
 
 ### The Pitch
-insert the link to the presentation
+*(insert the link to the presentation)*
 
 ## Contributors
 
