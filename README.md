@@ -35,7 +35,7 @@ TODO: explicit steps for DWave setup
 
 *(here: the 'Main Figures' picture - market size, population growth)*
 ### Other business applications
-
+*(here (maybe?): a collage of the applications below)*
 - SAAS for interior and indoor designs, master plans creation
 - Product design
 - Engineering: circuit design optimization
