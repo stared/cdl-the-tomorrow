@@ -1,4 +1,7 @@
+# The Tomorrow - CDL Quantum Hackathon 2021
+
 ## Project Description
+
 (3-4 lines about what it is and how you did it)
 
 ## Setup
@@ -12,20 +15,22 @@ conda env create -f environment.yml
 TODO: explicit steps for DWave setup
 
 ## How to Use
+
 Example: From command line: Use python solvers/script.py -h
 
 ## Challenge(s) You Solved
 
-## Project Details:
-- Further walkthrough of what you did 
-- Links to any Jupyter notebooks/scripts 
-- Business applications 
+## Project Details
+
+- Further walkthrough of what you did
+- Links to any Jupyter notebooks/scripts
+- Business applications
 - Link to Presentation
 
 ## Contributors
-Piotr Migdał, Quantum Flytrap  
-Klem Jankiewicz, Quantum Flytrap  
-Ravindra Babu Mutyamsetty   
-Victor Onofre   
-Ekaterina Sokolovskaya 
 
+- Piotr Migdał - [Quantum Flytrap](https://quantumflytrap.com/)
+- Klem Jankiewicz - [Quantum Flytrap](https://quantumflytrap.com/)  
+- Ravindra Babu Mutyamsetty
+- Victor Onofre
+- Ekaterina Sokolovskaya
