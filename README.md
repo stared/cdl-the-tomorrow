@@ -34,6 +34,30 @@ TODO: explicit steps for DWave setup
 *(here: the 'Common problems' picture)*
 
 *(here: the 'Main Figures' picture - market size, population growth)*
+
+#### Potential customers ####
+
+**Architectural software solutions**
+
+- AutoDesk
+- Rhino (especially, their Grasshopper 3D solution)
+- CATIA 
+- SketchUp 
+- Revit
+
+**Urban planning companies**
+
+- Public sector
+- Real Estate & Infra Companies
+  * HDR (especially, their UrbanFootprint software)
+  * Zaha Hadid Architects
+  * SOM
+  * WSP
+  * ARUP
+  * Populous
+
+
+
 ### Other business applications
 *(here (maybe?): a collage of the applications below)*
 - SAAS for interior and indoor designs, master plans creation
