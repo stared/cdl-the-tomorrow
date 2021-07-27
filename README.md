@@ -16,9 +16,17 @@ pip install -r requirements.txt
 Example: From command line: Use python solvers/script.py -h
 
 ## Challenge(s) You Solved
-##Project Details:
-Further walkthrough of what you did
-Links to any Jupyter notebooks/scripts
-Business applications
-Link to Presentation
-Contributors
+
+## Project Details:
+- Further walkthrough of what you did 
+- Links to any Jupyter notebooks/scripts 
+- Business applications 
+- Link to Presentation
+
+## Contributors
+Piotr Migdał, Quantum Flytrap 
+Klem Jankiewicz, Quantum Flytrap 
+Ravindra Babu Mutyamsetty 
+Victor Onofre 
+Ekaterina Sokolovskaya
+
