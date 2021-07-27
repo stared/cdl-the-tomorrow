@@ -1,7 +1,5 @@
 # The Tomorrow - CDL Quantum Hackathon 2021
 
-# *QuantumCAD / QCAD*
-
 ## Project Description
 
 *(3-4 lines about what it is and how you did it)*
