@@ -28,7 +28,7 @@ Example: From command line: Use python solvers/script.py -h
 - Links to any Jupyter notebooks/scripts
 
 ## Market oppotunity
-
+(here: the 'Urban Planning' intro picture)
 ### Urban Planning
 
 ### Other business applications
