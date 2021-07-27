@@ -2,13 +2,14 @@
 (3-4 lines about what it is and how you did it)
 
 ## Setup
-Example:
 
-Make sure you have X installed and configured.
+The project is managed by [conda](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html). Install all dependencies by running in the command line:
 
-Set up your preferred virtual environment.
+```{bash}
+conda env create -f environment.yml
+```
 
-pip install -r requirements.txt
+TODO: explicit steps for DWave setup
 
 ## How to Use
 Example: From command line: Use python solvers/script.py -h
