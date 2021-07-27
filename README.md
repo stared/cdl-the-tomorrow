@@ -29,9 +29,9 @@ Example: From command line: Use python solvers/script.py -h
 
 ## Market oppotunity
 
-**Urban Planning**
+> Urban Planning
 
-**Other business applications**
+> Other business applications
 
 
 
