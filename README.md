@@ -26,6 +26,9 @@ Example: From command line: Use python solvers/script.py -h
 
 - Further walkthrough of what you did
 - Links to any Jupyter notebooks/scripts
+
+## Market oppotunity
+
 - Business applications
 - Link to Presentation
 
