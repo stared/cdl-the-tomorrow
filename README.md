@@ -31,6 +31,9 @@ TODO: explicit steps for DWave setup
 *(here: the 'Urban Planning' intro picture)*
 ### Urban Planning
 
+*(here: the 'Common problems' picture)*
+
+*(here: the 'Main Figures' picture - market size, population growth)*
 ### Other business applications
 
 - SAAS for interior and indoor designs, master plans creation
