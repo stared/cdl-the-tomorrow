@@ -22,13 +22,9 @@ Example: From command line: Use python solvers/script.py -h
 - Link to Presentation
 
 ## Contributors
-Piotr Migdał, Quantum Flytrap
-
-Klem Jankiewicz, Quantum Flytrap 
-
-Ravindra Babu Mutyamsetty 
-
-Victor Onofre 
-
-Ekaterina Sokolovskaya
+Piotr Migdał, Quantum Flytrap  
+Klem Jankiewicz, Quantum Flytrap  
+Ravindra Babu Mutyamsetty   
+Victor Onofre   
+Ekaterina Sokolovskaya 
 
