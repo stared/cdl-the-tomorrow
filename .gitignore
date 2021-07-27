@@ -1,6 +1,8 @@
 # Python temp files
 .ipynb_checkpoints/
 *.pyc
+__pycache__/
+.pytest_cache/
 
 # System files
 .DS_Store
