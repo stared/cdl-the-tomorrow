@@ -33,6 +33,8 @@ TODO: explicit steps for DWave setup
 
 *(here: the 'Common problems' picture)*
 
+*(here: the 'Historical background' picture)*
+
 *(here: the 'Main Figures' picture - market size, population growth)*
 
 ### Potential customers 
