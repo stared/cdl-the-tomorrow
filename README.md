@@ -40,6 +40,7 @@ TODO: explicit steps for DWave setup
 - Product design
 - Engineering: circuit design optimization
 - 3D computer graphics (e.g. game design)
+- Board games design
 - Fiber links, metros and power grid optimization (e.g. as a part of the urban design solutions)
 
 
