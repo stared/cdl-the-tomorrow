@@ -99,11 +99,11 @@ These all mentioned reasons make the urban planning software and services market
 
 ## Contributors
 
-- Piotr Migdał - [Quantum Flytrap](https://quantumflytrap.com/)
-- Klem Jankiewicz - [Quantum Flytrap](https://quantumflytrap.com/)  
-- Ravindra Babu Mutyamsetty
-- Victor Onofre
-- Ekaterina Sokolovskaya
+- Piotr Migdał - [Quantum Flytrap](https://quantumflytrap.com/) - Quantum physicist, data vis specialist and AI consultant with unlimited curiosity and passion for science
+- Klem Jankiewicz - [Quantum Flytrap](https://quantumflytrap.com/)  - Designer who works in the intersection of STEMs and art, providing a creative approach to education and constantly challenging herself
+- Ravindra Babu Mutyamsetty - Data Scientist and Topological Data Analysis enthusiast, who is passionate about building impactful technological solutions to drive positive change
+- Victor Onofre - Quantum Engineer and a Quantum computing graduate, who wants to be on the frontlines of quantum technologies developments 
+- Ekaterina Sokolovskaya - Quantum Nanoscience graduate and Entrepreneur who is driven by creating an added value by introducing high-tech solutions
 
 
 
