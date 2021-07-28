@@ -19,22 +19,40 @@ This problem can offer good solutions even in presence of noise (as in this case
 While we use one-hot encoding, for some computing models (allowing to use of more than two-particle operators) it is possible to do a more qubit-efficient binary encoding. This problem can naturally gain performance for many-level systems (qutrits and more) - as it will allow encoding more tiles kinds per node/wire.
 
 
-
 ## Setup
 
-The project is managed by [conda](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html). Install all dependencies by running in the command line:
+### No setup 
+
+Just [open in Colab just_run_it.ipynb](https://colab.research.google.com/github/stared/cdl-the-tomorrow/blob/main/just_run_it.ipynb).
+
+### Local setup
+
+You need [git](https://git-scm.com/) and [conda](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html). Install Python dependencies by running in the command line:
 
 ```{bash}
+git clone https://github.com/stared/cdl-the-tomorrow.git
+cd cdl-the-tomorrow.
 conda env create -f environment.yml
+```
+
+To connect to D-Wave you need API Token for your D-Wave account. Create path `y` and fill the `Authentication token`; leave other fields with their defaults.
+
+```{bash}
+dwave config create
+```
+
+To run an interactive visual D-Wave Inspector, set it up with:
+
+```{bash}
+dwave install inspector
 ```
 
 If you want to run in in Jupyter Notebook, see [How to set up Anaconda and Jupyter Notebook the right way](https://towardsdatascience.com/how-to-set-up-anaconda-and-jupyter-notebook-the-right-way-de3b7623ea4a).
 
-TODO: explicit steps for DWave setup
 
 ## How to Use
 
-*Example: From command line: Use python solvers/script.py -h*
+Use Jupyter notebook to open files (such as `just_run_it.ipynb`).
 
 ## Challenge(s) You Solved
 
