@@ -47,9 +47,11 @@ Then in the 50s, the advent of computation reestablished systematic design with 
 
 Currently, there are several challenges associated with modern parametric design solutions.
 > Parametric modelling failed to account for (1) the compounded effect of multiple variables at once, (2) the imperative of space organization and style over strict efficiency, (3) the variability of scenarios, and finally (4) the computational cost of simulations.
+> 
 > (c) Stanislas Chaillou, The Advent of Architectural AI, Historical Perspective ([[3]](https://towardsdatascience.com/the-advent-of-architectural-ai-706046960140))
 
-In order to overcome these drawbacks, AI solutions were proposed [[4]](https://towardsdatascience.com/ai-architecture-f9d78c6958e0). This continuous progress from Modularity, to Computational Design, Parametricism and AI all leads us to the proposal of quantum-methods-based architectural optimization solutions. With the overall simplicity of the introduction of constraints (parameters), we believe the quantum approach will boost the computational power, mitigate certain computational errors and improve the overall design.
+In order to overcome these drawbacks, AI solutions were proposed [[4]](https://towardsdatascience.com/ai-architecture-f9d78c6958e0).  
+This continuous progress from Modularity, to Computational Design, Parametricism and AI all leads us to the proposal of quantum-methods-based architectural optimization solutions. With the overall simplicity of the introduction of constraints (parameters), we believe the quantum approach will boost the computational power, mitigate certain computational errors and improve the overall design.
 
 > For the most efficient and stable architectural and design solutions, we tend to copy nature as nature creates the ‘perfect’ patterns. Therefore, for creating the most suitable optimized solutions, we need to mimic nature and, hence, use quantum methods.
 
