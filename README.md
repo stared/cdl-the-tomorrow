@@ -47,7 +47,7 @@ Urban planning and systematic architectural design is not a novel thought [[3]](
 Then in the 50s, the advent of computation reestablished systematic design with an opportunity to realize scalable solutions. First prototypes of CAD and CATIA emerged. Over the following decades, with growing computational power and storage capacities, 3D design software solutions became widely adopted. It led to the creation of Parametricism, "communicating certain commands to the computer while isolating key parameters impacting the result" [[3]](https://towardsdatascience.com/the-advent-of-architectural-ai-706046960140). With these tools, extraordinary architectural designs have been created (i.e. Zaha Hadid Architects' work).
 
 Currently, there are several challenges associated with modern parametric design solutions.
-> Parametric modelling failed to account for (1) the compounded effect of multiple variables at once, (2) the imperative of space organization and style over strict efficiency, (3) the variability of scenarios, and finally (4) the computational cost of simulations.
+> Parametric modelling failed to account for **(1) the compounded effect of multiple variables at once, (2) the imperative of space organization and style over strict efficiency, (3) the variability of scenarios**, and finally **(4) the computational cost of simulations.**
 > 
 > (c) Stanislas Chaillou, The Advent of Architectural AI, Historical Perspective ([[3]](https://towardsdatascience.com/the-advent-of-architectural-ai-706046960140))
 
