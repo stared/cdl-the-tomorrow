@@ -4,7 +4,14 @@
 
 *(3-4 lines about what it is and how you did it)*
 
+
 ## Setup
+
+### Without setup
+
+Just run a Colab notebook: [just_run_it.ipynb](https://colab.research.google.com/github/stared/cdl-the-tomorrow/blob/main/just_run_it.ipynb). No installation needed, and you can even run it on a D-Wave quantum computer.
+
+### Local setup
 
 The project is managed by [conda](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html). Install all dependencies by running in the command line:
 
@@ -18,7 +25,8 @@ TODO: explicit steps for DWave setup
 
 ## How to Use
 
-*Example: From command line: Use python solvers/script.py -h*
+Open notebooks (`just_run_it.ipynb`) and run them with Jupyter Notebook or JupyterLab. 
+Installation lines (all starting with `!`) can be ignored (these are for Colab). 
 
 ## Challenge(s) You Solved
 
