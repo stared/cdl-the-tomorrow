@@ -8,16 +8,19 @@ We optimize a two-dimensional grid with k types of tiles for map generation with
 
 The cost function can be set arbitrarily or derived from probabilities from a pattern sample. In this case, the cost is the negative log-likelihood of the probability.
 
+Deep learning methods (especially Generative Adversarial Networks) offer a way to generate images based on training data (even 1024x1024 photorealistic faces). There are algorithms precisely for extending patterns. Yet, while they work decently for images, they are typically very bad at fulfilling constraints and any other exact patterns. 
+
+This tile problem can be naturally mapped to 2-d architectures of superconducting qubits or cold atoms in an optical lattice. We solve it with quantum annealing - simulated locally and using D-Wave devices. In a typical setting, we use the same wights for the whole system - which may make it easier for some implementations (e.g. optical lattices).
+
+Still, it is possible to optimize it with a circuit-based Quantum Approximate Optimization Algorithm (we solved that with PennyLane). 
+
+This problem can offer good solutions even in presence of noise (as in this case it combines quantum annealing and classical annealing) - hence used with present-day noisy quantum devices. It is unlikely to number theory problems in which we cannot be “off by one”.
+
+While we use one-hot encoding, for some computing models (allowing to use of more than two-particle operators) it is possible to do a more qubit-efficient binary encoding. This problem can naturally gain performance for many-level systems (qutrits and more) - as it will allow encoding more tiles kinds per node/wire.
 
 
 
 ## Setup
-
-### Without setup
-
-Just run a Colab notebook: [just_run_it.ipynb](https://colab.research.google.com/github/stared/cdl-the-tomorrow/blob/main/just_run_it.ipynb). No installation needed, and you can even run it on a D-Wave quantum computer.
-
-### Local setup
 
 The project is managed by [conda](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html). Install all dependencies by running in the command line:
 
@@ -31,8 +34,7 @@ TODO: explicit steps for DWave setup
 
 ## How to Use
 
-Open notebooks (`just_run_it.ipynb`) and run them with Jupyter Notebook or JupyterLab. 
-Installation lines (all starting with `!`) can be ignored (these are for Colab). 
+*Example: From command line: Use python solvers/script.py -h*
 
 ## Challenge(s) You Solved
 
