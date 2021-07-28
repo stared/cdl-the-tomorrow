@@ -40,12 +40,23 @@ This, unfortunately, might lead to deplorable consequences:
 > At the same time that we're solving for climate change, we're going to be building cities for three billion people. That's a doubling of the urban environment. If we don't get that right, I'm not sure all the climate solutions in the world will save mankind.  
 > (c) Peter Calthorpe, TED lecture "7 principles for building better cities"  ([[1]](https://www.ted.com/talks/peter_calthorpe_7_principles_for_building_better_cities))
 
-
-
-
 *(here: the 'Historical background' picture)*
 
+Urban planning and systematic architectural design is not a novel thought [[3]](https://towardsdatascience.com/the-advent-of-architectural-ai-706046960140). The conception of this design trend can be traced back to the early 1920s, to the modularity era. Walter Gropius, Le Corbusier, they proposed modular grid and repetitive patterns in order to achieve technical simplicity and affordability to accommodate growing city populations. These trends have been adopted by many countries in different corners of the world from Eastern Europe and Asia to the States and Latina America (especially after the World War). However, the LEGO-like conception of architecture has found criticism for the indifference to social expression and pre-existing cultural sites. The homogeneity and complexity of structures started discouraging architects.
+Then in the 50s, the advent of computation reestablished systematic design with an opportunity to realize scalable solutions. First prototypes of CAD and CATIA emerged. Over the following decades, with growing computational power and storage capacities, 3D design software solutions became widely adopted. It led to the creation of Parametricism, "communicating certain commands to the computer while isolating key parameters impacting the result" [[3]](https://towardsdatascience.com/the-advent-of-architectural-ai-706046960140). With these tools, extraordinary architectural designs have been created (i.e. Zaha Hadid Architects' work).
+Currently, there are several challenges associated with modern parametric design solutions.
+> Parametric modelling failed to account for (1) the compounded effect of multiple variables at once, (2) the imperative of space organization and style over strict efficiency, (3) the variability of scenarios, and finally (4) the computational cost of simulations.
+> (c) Stanislas Chaillou, The Advent of Architectural AI, Historical Perspective
+([[3]](https://towardsdatascience.com/the-advent-of-architectural-ai-706046960140))
+In order to overcome these drawbacks, AI solutions were proposed [[4]](https://towardsdatascience.com/ai-architecture-f9d78c6958e0). This continuous progress from Modularity, to Computational Design, Parametricism and AI all leads us to the proposal of quantum-methods-based architectural optimization solutions. With the overall simplicity of the introduction of constraints (parameters), we believe the quantum approach will boost the computational power, mitigate certain computational errors and improve the overall design.
+
+> For the most efficient and stable architectural and design solutions, we tend to copy nature as nature creates the ‘perfect’ patterns. Therefore, for creating the most suitable optimized solutions, we need to mimic nature and, hence, use quantum methods.
+
+
+
+<market size>
 *(here: the 'Main Figures' picture - market size, population growth)*
+<current trends>
 
 ### Potential customers 
 
@@ -91,3 +102,4 @@ This, unfortunately, might lead to deplorable consequences:
 - Ravindra Babu Mutyamsetty
 - Victor Onofre
 - Ekaterina Sokolovskaya
+
