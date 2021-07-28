@@ -34,7 +34,7 @@ TODO: explicit steps for DWave setup
 We can find sprawls in every city. It is not necessarily about the population size or class stratifications, these "disconnected environments" emerge in every part of the world as a result of flawed urban planning.
 Peter Calthorpe, a well-known architect and urban planner, points out that this phenomenon accounts for "not just environmental impacts, but our social well-being, the economic vitality, our sense of community and connectedness" [[1]](https://www.ted.com/talks/peter_calthorpe_7_principles_for_building_better_cities).  Billions of dollars are spent on traffic optimization, respiratory and heart diseases, carbon footprint reduction, land consumption optimization, residential segregation mitigation (just to name a few common issues). And those problems are still evolving. Right now, more than half of the world's population already live in cities, and another 2.5 billion people are projected to move to urban areas by 2050 [[2]](https://www.un.org/development/desa/en/news/population/2018-revision-of-world-urbanization-prospects.html). 
 
-*(here: the 'Common problems' picture)*
+![Problems](https://github.com/stared/cdl-the-tomorrow/blob/main/images/Problems.jpg)
 
 This, unfortunately, might lead to deplorable consequences:
 > At the same time that we are solving for climate change, we are going to be building cities for three billion people. That is a doubling of the urban environment. If we do not get that right, I am not sure all the climate solutions in the world will save mankind.  
@@ -58,9 +58,9 @@ This continuous progression from Modularity, to Computational Design, Parametric
 
 > For the most efficient and stable architectural and design solutions, we tend to copy nature as nature creates the ‘perfect’ patterns. Therefore, for creating the most suitable optimized solutions, we need to mimic nature and, hence, use quantum methods.
 
+![Market](https://github.com/stared/cdl-the-tomorrow/blob/main/images/Market.jpg)
+
 The above-mentioned reasons make the urban planning software and services market especially attractive. The overall market projection is estimated to reach ~US$ 211.4 billion by the end of 2027, with a rapid growth rate (CAGR of around 7% from 2019 to 2027) [[9]](https://www.prnewswire.com/news-releases/urban-planning-software--services-market-to-reach-us-211-4-bn-by-2027--initiatives-in-smart-city-developments-push-applications--a-new-report-by-transparency-market-research-301005843.html). The most prominent urban planning interest is expected to further develop in Asia, the Middle East, Africa and Latin America.
- 
-*(here: the 'Main Figures' picture - market size, population growth)*
 
 ### Potential customers 
 
@@ -86,7 +86,9 @@ The above-mentioned reasons make the urban planning software and services market
 
 
 ### Other business applications
-*(here (maybe?): a collage of the applications below)*
+
+![Other](https://github.com/stared/cdl-the-tomorrow/blob/main/images/Other.jpg)
+
 - SAAS for interior and indoor designs, master plans creation
 - Product design
 - Engineering: circuit design optimization
