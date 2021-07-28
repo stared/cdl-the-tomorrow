@@ -38,6 +38,7 @@ Peter Calthorpe, a well-known architect and urban planner, points out that this 
 
 This, unfortunately, might lead to deplorable consequences:
 > At the same time that we're solving for climate change, we're going to be building cities for three billion people. That's a doubling of the urban environment. If we don't get that right, I'm not sure all the climate solutions in the world will save mankind.  
+> 
 > (c) Peter Calthorpe, TED lecture "7 principles for building better cities"  ([[1]](https://www.ted.com/talks/peter_calthorpe_7_principles_for_building_better_cities))
 
 *(here: the 'Historical background' picture)*
