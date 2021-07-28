@@ -35,8 +35,7 @@ We can find sprawls in every city. It is not necessarily about the population si
 Peter Calthorpe, a well-known architect and urban planner, points out that this phenomenon accounts for "not just environmental impacts, but our social well-being, the economic vitality, our sense of community and connectedness" [[1]](https://www.ted.com/talks/peter_calthorpe_7_principles_for_building_better_cities).  Billions of dollars are spent on traffic optimization, respiratory and heart diseases, carbon footprint reduction, land consumption optimization, residential segregation mitigation (just to name a few common issues). And those problems are just evolving. Right now, more than half of the world's population already lives in cities, and another 2.5 billion people are projected to move to urban areas by 2050 [[2]](https://www.un.org/development/desa/en/news/population/2018-revision-of-world-urbanization-prospects.html). 
 
 > At the same time that we're solving for climate change, we're going to be building cities for three billion people. That's a doubling of the urban environment. If we don't get that right, I'm not sure all the climate solutions in the world will save mankind.
- 
-  (c) Peter Calthorpe, TED lecture "7 principles for building better cities"
+> > (c) Peter Calthorpe, TED lecture "7 principles for building better cities"
 
 
 *(here: the 'Common problems' picture)*
