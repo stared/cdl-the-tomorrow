@@ -85,8 +85,6 @@ The above-mentioned reasons make the urban planning software and services market
 
 ### Other business applications
 
-![Other](https://github.com/stared/cdl-the-tomorrow/blob/main/images/Other.jpg)
-
 - SAAS for interior and indoor designs, master plans creation
 - Product design
 - Engineering: circuit design optimization
