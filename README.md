@@ -28,7 +28,7 @@ TODO: explicit steps for DWave setup
 - Links to any Jupyter notebooks/scripts
 
 ## Market opportunity
-![Quantum CAD](cdl-the-tomorrow/images/Title.png)
+![Quantum CAD](https://github.com/stared/cdl-the-tomorrow/blob/main/images/Title.png)
 ### Urban Planning
 
 We can find sprawls in every city. It is not necessarily about the population size or class stratifications, these "disconnected environments" emerge in every part of the world as a result of flawed urban planning.
