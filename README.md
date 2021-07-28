@@ -43,7 +43,7 @@ This, unfortunately, might lead to deplorable consequences:
 
 *(here: the 'Historical background' picture)*
 
-Urban planning and systematic architectural design is not a novel thought [[3]](https://towardsdatascience.com/the-advent-of-architectural-ai-706046960140). The conception of this design trend can be traced back to the early 1920s, to the modularity era. Walter Gropius, Le Corbusier, they proposed modular grid and repetitive patterns in order to achieve technical simplicity and affordability to accommodate growing city populations. These trends have been adopted by many countries in different corners of the world from Eastern Europe and Asia to the States and Latina America (especially after the World War). However, the LEGO-like conception of architecture has found criticism for the indifference to social expression and pre-existing cultural sites. The homogeneity and complexity of structures started discouraging architects.
+Urban planning and systematic architectural design is not a novel thought [[3]](https://towardsdatascience.com/the-advent-of-architectural-ai-706046960140). The conception of this design trend can be traced back to the early 1920s, to the modularity era. Walter Gropius, Le Corbusier, they proposed modular grid and repetitive patterns in order to achieve technical simplicity and affordability to accommodate growing city populations. These trends have been adopted by many countries in different corners of the world from Eastern Europe and Asia to the States and Latina America. However, zoning and clustering trends (many of which were adopted for good reasons, i.e. as the consequences of wars' disruptions and urbanization) have reinforced these sprawls we are experiencing today [[4]](https://www.nationalgeographic.com/magazine/article/to-build-cities-of-the-future-stop-driving-cars). Furthermore, the LEGO-like conception of architecture has found criticism for the indifference to social expression and pre-existing cultural sites. The homogeneity and complexity of structures started discouraging architects.
 Then in the 50s, the advent of computation reestablished systematic design with an opportunity to realize scalable solutions. First prototypes of CAD and CATIA emerged. Over the following decades, with growing computational power and storage capacities, 3D design software solutions became widely adopted. It led to the creation of Parametricism, "communicating certain commands to the computer while isolating key parameters impacting the result" [[3]](https://towardsdatascience.com/the-advent-of-architectural-ai-706046960140). With these tools, extraordinary architectural designs have been created (i.e. Zaha Hadid Architects' work).
 
 Currently, there are several challenges associated with modern parametric design solutions.
@@ -56,7 +56,7 @@ This continuous progress from Modularity, to Computational Design, Parametricism
 
 > For the most efficient and stable architectural and design solutions, we tend to copy nature as nature creates the ‘perfect’ patterns. Therefore, for creating the most suitable optimized solutions, we need to mimic nature and, hence, use quantum methods.
 
-
+These all mentioned reasons make the urban planning software and services market especially attractive. The overall market projection is estimated to reach ~US$ 211.4 billion by the end of 2027, with a rapid growth rate (CAGR of around 7%) [[6]](https://www.prnewswire.com/news-releases/urban-planning-software--services-market-to-reach-us-211-4-bn-by-2027--initiatives-in-smart-city-developments-push-applications--a-new-report-by-transparency-market-research-301005843.html). North America and Europe are mature markets with large providers of SAAS services. The most prominent urban planning interest is expected to further develop in Asia, Middle East, Africa and Latina America.
 
 <market size>
  
@@ -108,4 +108,3 @@ This continuous progress from Modularity, to Computational Design, Parametricism
 - Ravindra Babu Mutyamsetty
 - Victor Onofre
 - Ekaterina Sokolovskaya
-
