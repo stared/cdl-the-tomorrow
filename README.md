@@ -41,7 +41,8 @@ This, unfortunately, might lead to deplorable consequences:
 > 
 > (c) Peter Calthorpe, TED lecture "7 principles for building better cities"  ([[1]](https://www.ted.com/talks/peter_calthorpe_7_principles_for_building_better_cities))
 
-*(here: the 'Historical background' picture)*
+![Historical background](https://github.com/stared/cdl-the-tomorrow/blob/main/images/1_F5VRsKkQRzaBIxasDS-DNg.png)
+<sup> from Stanislas Chaillou's "The Advent of Architectural AI, Historical Perspective" </sup>
 
 Urban planning and systematic architectural design as tools help to solve some of those issues. These methods have been developing for about a century now [[3]](https://towardsdatascience.com/the-advent-of-architectural-ai-706046960140). The conception of this design trend can be traced back to the early 1920s, to the modularity era. Walter Gropius, Le Corbusier [[4]](https://www.youtube.com/watch?v=5TEa7pZln_Q&ab_channel=MArch2UrbanUnit), they proposed modular grid and repetitive patterns in order to achieve technical simplicity and affordability to accommodate growing city populations. These trends have been adopted by many countries in different corners of the world from Eastern Europe and Asia to North and Latin America. However, zoning and clustering trends (many of which were adopted for good reasons, i.e. as the consequences of wars' disruptions and urbanization) have reinforced these sprawls which we are experiencing today [[5]](https://www.nationalgeographic.com/magazine/article/to-build-cities-of-the-future-stop-driving-cars). Furthermore, this LEGO-like conception of architecture has found criticism for the indifference to social expression and pre-existing cultural sites. And the homogeneity and complexity of structures started discouraging architects.
 
