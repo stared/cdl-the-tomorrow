@@ -94,7 +94,7 @@ The above-mentioned reasons make the urban planning software and services market
 
 
 ### The Pitch
-*(insert the link to the presentation)*
+[Presentation](https://docs.google.com/presentation/d/1jn9vqqq9gJDm7B92S6UY44lDJGC3LkkrHy88zMydQeo/edit?usp=sharing)
 
 
 ## Contributors
