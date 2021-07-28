@@ -51,12 +51,12 @@ Currently, there are several challenges associated with modern parametric design
 > 
 > (c) Stanislas Chaillou, The Advent of Architectural AI, Historical Perspective ([[3]](https://towardsdatascience.com/the-advent-of-architectural-ai-706046960140))
 
-In order to overcome these drawbacks, AI solutions were proposed [[4]](https://towardsdatascience.com/ai-architecture-f9d78c6958e0),  [[5]](https://arxiv.org/abs/2107.07397).  
+In order to overcome these drawbacks, AI solutions were proposed [[5]](https://towardsdatascience.com/ai-architecture-f9d78c6958e0),  [[6]](https://arxiv.org/abs/2107.07397).  
 This continuous progress from Modularity, to Computational Design, Parametricism and AI all leads us to the proposal of quantum-methods-based architectural optimization solutions. With the overall simplicity of the introduction of constraints (parameters), we believe the quantum approach will boost the computational power, mitigate certain computational errors and improve the overall design.
 
 > For the most efficient and stable architectural and design solutions, we tend to copy nature as nature creates the ‘perfect’ patterns. Therefore, for creating the most suitable optimized solutions, we need to mimic nature and, hence, use quantum methods.
 
-These all mentioned reasons make the urban planning software and services market especially attractive. The overall market projection is estimated to reach ~US$ 211.4 billion by the end of 2027, with a rapid growth rate (CAGR of around 7%) [[6]](https://www.prnewswire.com/news-releases/urban-planning-software--services-market-to-reach-us-211-4-bn-by-2027--initiatives-in-smart-city-developments-push-applications--a-new-report-by-transparency-market-research-301005843.html). North America and Europe are mature markets with large providers of SAAS services. The most prominent urban planning interest is expected to further develop in Asia, Middle East, Africa and Latina America.
+These all mentioned reasons make the urban planning software and services market especially attractive. The overall market projection is estimated to reach ~US$ 211.4 billion by the end of 2027, with a rapid growth rate (CAGR of around 7%) [[7]](https://www.prnewswire.com/news-releases/urban-planning-software--services-market-to-reach-us-211-4-bn-by-2027--initiatives-in-smart-city-developments-push-applications--a-new-report-by-transparency-market-research-301005843.html). North America and Europe are mature markets with large providers of SAAS services. The most prominent urban planning interest is expected to further develop in Asia, Middle East, Africa and Latina America.
 
 <market size>
  
@@ -108,3 +108,6 @@ These all mentioned reasons make the urban planning software and services market
 - Ravindra Babu Mutyamsetty
 - Victor Onofre
 - Ekaterina Sokolovskaya
+
+
+
