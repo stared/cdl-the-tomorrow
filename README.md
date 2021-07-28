@@ -61,7 +61,7 @@ This, unfortunately, might lead to deplorable consequences:
 
 - Public sector
 - Real Estate & Infra Companies
-  * HDR (especially, their UrbanFootprint software)
+  * HDR (and their UrbanFootprint software)
   * Zaha Hadid Architects
   * SOM
   * WSP
