@@ -2,7 +2,13 @@
 
 ## Project Description
 
-*(3-4 lines about what it is and how you did it)*
+We optimize a two-dimensional grid with k types of tiles for map generation with respect to:
+1. constraints
+2. cost function (energy)
+
+The cost function can be set arbitrarily or derived from probabilities from a pattern sample. In this case, the cost is the negative log-likelihood of the probability.
+
+
 
 ## Setup
 
