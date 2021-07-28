@@ -56,7 +56,7 @@ This continuous progress from Modularity, to Computational Design, Parametricism
 
 > For the most efficient and stable architectural and design solutions, we tend to copy nature as nature creates the ‘perfect’ patterns. Therefore, for creating the most suitable optimized solutions, we need to mimic nature and, hence, use quantum methods.
 
-These all mentioned reasons make the urban planning software and services market especially attractive. The overall market projection is estimated to reach ~US$ 211.4 billion by the end of 2027, with a rapid growth rate (CAGR of around 7%) [[7]](https://www.prnewswire.com/news-releases/urban-planning-software--services-market-to-reach-us-211-4-bn-by-2027--initiatives-in-smart-city-developments-push-applications--a-new-report-by-transparency-market-research-301005843.html). North America and Europe are mature markets with large providers of SAAS services. The most prominent urban planning interest is expected to further develop in Asia, Middle East, Africa and Latina America.
+These all mentioned reasons make the urban planning software and services market especially attractive. The overall market projection is estimated to reach ~US$ 211.4 billion by the end of 2027, with a rapid growth rate (CAGR of around 7% from 2019 to 2027) [[7]](https://www.prnewswire.com/news-releases/urban-planning-software--services-market-to-reach-us-211-4-bn-by-2027--initiatives-in-smart-city-developments-push-applications--a-new-report-by-transparency-market-research-301005843.html). North America and Europe are mature markets with large providers of SAAS services. The most prominent urban planning interest is expected to further develop in Asia, Middle East, Africa and Latina America.
 
 <market size>
  
